@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = max-eduard@t-online.de
+	name = Max Eduard von Wedemeyer
